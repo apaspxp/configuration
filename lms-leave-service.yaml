@@ -5,7 +5,7 @@
 #    password: sarthak123
 app:
   datasource:
-    url: jdbc:mysql://${MYSQL_HOST:localhost}:3306/hello
+    url: jdbc:mysql://${MYSQL_HOST:localhost}:3306/LMSLEAVESERVICE
     username: lms
     password: lms123
     configuration:
