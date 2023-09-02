@@ -1,6 +1,6 @@
 app:
   datasource:
-    url: jdbc:mysql://${MYSQL_HOST:localhost}:3306/LMSATTENDANCESERVICE
+    url: jdbc:mysql://${MYSQL_HOST:mysql-service}:3306/LMSATTENDANCESERVICE
     username: lms
     password: lms123
     configuration:
