@@ -1,1 +1,2 @@
-message
+greeting:
+    message: Hello from config-server aplication name is client-app-17thaug2023.
